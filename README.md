@@ -2,23 +2,25 @@
    <p align="center">Greetings! 👋🏻</p>
 </h2>
 <p align="justify">
-   My name is <b>Thomas Palma</b>, a <b>Software Developer</b> from <b>Brazil</b> 🇧🇷 with nearly <b>4 years of professional experience</b>, currently steering my career toward <b>DevOps</b>.
+   My name is <b>Thomas Palma</b>, a Software Developer from Brazil 🇧🇷 with nearly 4 years of professional experience, currently focusing my career on <b>DevOps</b>.
 </p>
 <p align="justify">
-   Throughout my career, I have worked primarily with <b>back-end application development</b> and the architecture of <b>RESTful APIs</b>, building reliable and well-structured systems. During this time, I worked closely with <b>process automation</b>, <b>delivery pipelines</b>, and <b>Linux production environments</b>, which naturally exposed me to <b>DevOps practices</b>.
+   Throughout my career, I have primarily focused on developing back-end applications and architecting <b>RESTful APIs</b>, building reliable and well-structured systems. During this time, I worked closely with process automation, delivery pipelines, and <b>Linux production environments</b>, which naturally exposed me to <b>DevOps practices</b>.
 </p>
 <p align="justify">
-   My hands-on experience includes <b>CI/CD pipeline creation and maintenance</b>, <b>application containerization (Docker)</b>, <b>operational automation</b>, and <b>production system support</b>, always aiming to reduce <b>manual errors</b>, improve <b>reliability</b>, and create <b>predictable delivery workflows</b>.
+   My hands-on experience includes <b>CI/CD pipeline creation and maintenance</b>, <b>application containerization (Docker)</b>, operational automation, and production system support, always aiming to reduce manual errors, improve reliability, and create predictable delivery workflows.
 </p>
 <p align="justify">
-   Daily exposure to <b>infrastructure</b>, <b>deployments</b>, and <b>automation</b> shaped my interest in <b>DevOps</b>. Currently, my studies and personal projects focus on <b>Infrastructure as Code (IaC)</b>, <b>containers</b>, <b>cloud platforms</b>, and <b>modern continuous delivery practices</b>, to work as a <b>DevOps Engineer</b> and, in the future, evolving into <b>DevSecOps</b>.
+   Daily exposure to infrastructure, deployments, and automation shaped my interest in <b>DevOps</b>. Currently, my studies and personal projects focus on <b>Infrastructure as Code (IaC)</b>, containers, cloud platforms, and modern continuous delivery practices, to work as a <b>DevOps Engineer</b> and, in the future, evolving into <b>DevSecOps</b>.
 </p>
 <p align="justify">
-   I value <b>collaborative environments</b>, <b>organization</b>, <b>automation</b>, and <b>continuous learning</b>, and I strongly believe that well-designed systems should be not only <b>functional</b>, but also easy to <b>operate</b>, <b>scale</b>, and <b>maintain</b>.
+   I value collaborative environments, organization, automation, and continuous learning, and I strongly believe that well-designed systems should be not only functional but also easy to operate, scale, and maintain.
 </p>
-
 <div align="center">
-   <h3 align="center"><b>Technologies with hands-on experience</b></h3>
+   <h3 align="center"><b>Technologies with hands-on experience 🛠️</b></h3>
+   <p align="center">
+      Here are the technologies I use most often. While I have worked with additional tools, these are the ones I currently rely on the most.
+   </p>
    <p align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="50" height="50"/>
       <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css">
@@ -32,7 +34,10 @@
    </p>
 </div>
 <div align="center">
-   <h3 align="center"><b>Technologies I am currently learning</b></h3>
+   <h3 align="center"><b>Technologies I am currently learning 🚀</b></h3>
+   <p align="center">
+      The following technologies reflect what I am actively studying and working with, with a focus on the DevOps, cloud, and modern infrastructure ecosystem.
+   </p>
    <p align="center">
       <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="50" height="50"/>
