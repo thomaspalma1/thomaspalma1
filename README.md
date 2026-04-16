@@ -8,7 +8,7 @@
    Throughout my career, I have primarily focused on developing back-end applications and architecting <b>RESTful APIs</b>, building reliable and well-structured systems. During this time, I worked closely with process automation, delivery pipelines, and <b>Linux production environments</b>, which naturally exposed me to <b>DevOps practices</b>.
 </p>
 <p align="justify">
-   My hands-on experience includes <b>CI/CD pipeline creation and maintenance</b>, <b>containerizing applications with Docker</b>, operational automation, and production system support, with a focus on reducing manual errors, improving reliability, and creating predictable delivery workflows.
+   My hands-on experience includes creating and maintaining CI/CD pipelines, <b>containerizing applications with Docker</b>, implementing operational automation, and providing production system support, with a focus on reducing manual errors, enhancing reliability, and establishing predictable delivery workflows.
 </p>
 <p align="justify">
    Daily exposure to infrastructure, deployments, and automation shaped my interest in <b>DevOps</b>. Currently, my studies and personal projects focus on <b>Infrastructure as Code methodologies</b>, containers, cloud platforms, and modern continuous delivery practices, with the goal of working as a <b>DevOps Engineer</b> and eventually evolving into <b>DevSecOps</b>.
