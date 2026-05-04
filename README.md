@@ -16,9 +16,9 @@
 <p align="justify">
    I value collaborative environments, organization, automation, and continuous learning, and I strongly believe that well-designed systems should be not only functional but also easy to operate, scale, and maintain.
 </p>
-<div align="center">
-   <h3 align="center"><b>Technologies with hands-on experience 🛠️</b></h3>
-   <p align="center">
+<div align="justify">
+   <h3 align="justify"><b>Technologies with hands-on experience 🛠️</b></h3>
+   <p align="justify">
       Here are the technologies I use most often. While I have worked with additional tools, these are the ones I currently rely on the most.
    </p>
 
@@ -57,9 +57,9 @@
       </tbody>
    </table>
 </div>
-<div align="center">
-   <h3 align="center"><b>Technologies I am currently learning 🚀</b></h3>
-   <p align="center">
+<div align="justify">
+   <h3 align="justify"><b>Technologies I am currently learning 🚀</b></h3>
+   <p align="justify">
       The following technologies reflect what I am actively studying and working with, with a focus on the DevOps, cloud, and modern infrastructure ecosystem.
    </p>
 
