@@ -21,34 +21,82 @@
    <p align="center">
       Here are the technologies I use most often. While I have worked with additional tools, these are the ones I currently rely on the most.
    </p>
-   <p align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="50" height="50"/>
-      <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="50" height="50"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ansible/ansible-original.svg" width="50" height="50"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" width="50" height="50"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="50" height="50"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" width="50" height="50"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="50" height="50"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="50" height="50"/>
-   </p>
+
+   <table>
+      <thead>
+         <tr>
+            <th align="left">Category</th>
+            <th align="left">Technologies</th>
+         </tr>
+      </thead>
+      <tbody>
+         <tr>
+            <td>Operating Systems</td>
+            <td>Linux</td>
+         </tr>
+         <tr>
+            <td>Containers</td>
+            <td>Docker</td>
+         </tr>
+         <tr>
+            <td>Configuration Management</td>
+            <td>Ansible</td>
+         </tr>
+         <tr>
+            <td>Scripting</td>
+            <td>Bash</td>
+         </tr>
+         <tr>
+            <td>Programming Languages</td>
+            <td>Python, Java</td>
+         </tr>
+         <tr>
+            <td>Backend Frameworks</td>
+            <td>FastAPI, Spring</td>
+         </tr>
+      </tbody>
+   </table>
 </div>
 <div align="center">
    <h3 align="center"><b>Technologies I am currently learning 🚀</b></h3>
    <p align="center">
       The following technologies reflect what I am actively studying and working with, with a focus on the DevOps, cloud, and modern infrastructure ecosystem.
    </p>
-   <p align="center">
-      <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="50" height="50"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" width="50" height="50"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original.svg" width="50" height="50"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" width="50" height="50"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg" width="50" height="50"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/argocd/argocd-original.svg" width="50" height="50"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nginx/nginx-original.svg" width="50" height="50"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" width="50" height="50"/>
-   </p>
+
+   <table>
+      <thead>
+         <tr>
+            <th align="left">Category</th>
+            <th align="left">Technologies</th>
+         </tr>
+      </thead>
+      <tbody>
+         <tr>
+            <td>Cloud Platforms</td>
+            <td>AWS, Google Cloud Platform (GCP)</td>
+         </tr>
+         <tr>
+            <td>Infrastructure as Code</td>
+            <td>Terraform</td>
+         </tr>
+         <tr>
+            <td>Container Orchestration</td>
+            <td>Kubernetes</td>
+         </tr>
+         <tr>
+            <td>CI/CD</td>
+            <td>Jenkins, Argo CD</td>
+         </tr>
+         <tr>
+            <td>Web Server / Proxy</td>
+            <td>Nginx</td>
+         </tr>
+         <tr>
+            <td>Programming Language</td>
+            <td>Go</td>
+         </tr>
+      </tbody>
+   </table>
 </div>
 <h2>Contact 📫</h2>
 <p align="justify">
