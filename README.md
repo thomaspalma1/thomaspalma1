@@ -1,17 +1,18 @@
-<h2>
-   <p align="center">Greetings! 👋🏻</p>
-</h2>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22D3EE&center=true&vCenter=true&width=500&lines=Welcome+and+Greetings!+%F0%9F%91%8B" alt="Typing SVG" />
+</h1>
+
 <p align="justify">
-   My name is <b>Thomas Palma</b>, a Software Developer from Brazil 🇧🇷 with nearly 4 years of professional experience, currently focusing my career on <b>DevOps</b>.
+   My name is <b>Thomas Palma</b>, a Software Developer from Brazil 🇧🇷 with <b>4 years of professional experience</b>, currently focused on <b>DevOps</b>.
 </p>
 <p align="justify">
    Throughout my career, I have primarily focused on developing back-end applications and architecting <b>RESTful APIs</b>, building reliable and well-structured systems. During this time, I worked closely with process automation, delivery pipelines, and <b>Linux production environments</b>, which naturally exposed me to <b>DevOps practices</b>.
 </p>
 <p align="justify">
-   My hands-on experience includes creating and maintaining CI/CD pipelines, <b>containerizing applications with Docker</b>, implementing operational automation, and providing production system support, with a focus on reducing manual errors, enhancing reliability, and establishing predictable delivery workflows.
+   My hands-on experience includes creating and maintaining <b>CI/CD pipelines</b>, containerizing applications with <b>Docker</b>, implementing operational automation, and providing production system support, with a focus on reducing manual errors, enhancing reliability, and establishing predictable delivery workflows.
 </p>
 <p align="justify">
-   Daily exposure to infrastructure, deployments, and automation shaped my interest in <b>DevOps</b>. Currently, my studies and personal projects focus on <b>Infrastructure as Code methodologies</b>, containers, cloud platforms, and modern continuous delivery practices, with the goal of working as a <b>DevOps Engineer</b> and eventually evolving into <b>DevSecOps</b>.
+   Daily exposure to infrastructure, deployments, and automation shaped my interest in <b>DevOps</b>. Currently, my studies and personal projects focus on <b>Infrastructure as Code methodologies</b>, containers, cloud platforms, and modern continuous delivery practices, with the goal of working as a <b>DevOps Engineer</b> and eventually evolving into a <b>DevSecOps professional</b>.
 </p>
 <p align="justify">
    I value collaborative environments, organization, automation, and continuous learning, and I strongly believe that well-designed systems should be not only functional but also easy to operate, scale, and maintain.
