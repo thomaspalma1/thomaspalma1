@@ -53,7 +53,7 @@
          </tr>
          <tr>
             <td>Backend Frameworks</td>
-            <td>FastAPI, Spring</td>
+            <td>FastAPI, Spring Boot</td>
          </tr>
       </tbody>
    </table>
@@ -74,7 +74,7 @@
       <tbody>
          <tr>
             <td>Cloud Platforms</td>
-            <td>AWS, Google Cloud Platform (GCP)</td>
+            <td>Amazon Web Services (AWS), Google Cloud Platform (GCP)</td>
          </tr>
          <tr>
             <td>Infrastructure as Code</td>
@@ -85,8 +85,12 @@
             <td>Kubernetes</td>
          </tr>
          <tr>
+            <td>Kubernetes Package Management</td>
+            <td>Helm</td>
+         </tr>
+         <tr>
             <td>CI/CD</td>
-            <td>Jenkins, Argo CD</td>
+            <td>GitHub Actions, GitLab CI/CD, Argo CD, Flux CD, Jenkins</td>
          </tr>
          <tr>
             <td>Web Server / Proxy</td>
