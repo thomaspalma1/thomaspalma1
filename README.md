@@ -3,19 +3,19 @@
 </h1>
 
 <p align="justify">
-   My name is <b>Thomas Palma</b>, a Software Developer from Brazil 🇧🇷 with <b>4 years of professional experience</b>, currently focused on <b>DevOps</b>.
+   My name is <b>Thomas Palma</b>, a <b>DevOps Engineer</b> from Brazil 🇧🇷 focused on infrastructure, reliability, and automation.
 </p>
 <p align="justify">
-   Throughout my career, I have primarily focused on developing back-end applications and architecting <b>RESTful APIs</b>, building reliable and well-structured systems. During this time, I worked closely with process automation, delivery pipelines, and <b>Linux production environments</b>, which naturally exposed me to <b>DevOps practices</b>.
+   In my career, I've worked with <b>CI/CD pipelines</b>, containerization with <b>Docker</b>, and configuration management with <b>Ansible</b> in <b>Linux production environments</b>. A significant part of my work involved <b>troubleshooting and incident resolution</b> in critical systems, along with <b>observability and monitoring</b> of distributed systems using <b>Grafana</b> and <b>Prometheus</b>.
 </p>
 <p align="justify">
-   My hands-on experience includes creating and maintaining <b>CI/CD pipelines</b>, containerizing applications with <b>Docker</b>, implementing operational automation, and providing production system support, with a focus on reducing manual errors, enhancing reliability, and establishing predictable delivery workflows.
+   I also bring a background in back-end development with <b>Python</b> and <b>FastAPI</b>, as well as <b>Java</b> and <b>Spring</b>, which helps me investigate problems from both sides, understanding not only the infrastructure, but how it connects to the application layer.
 </p>
 <p align="justify">
-   Daily exposure to infrastructure, deployments, and automation shaped my interest in <b>DevOps</b>. Currently, my studies and personal projects focus on <b>Infrastructure as Code methodologies</b>, containers, cloud platforms, and modern continuous delivery practices, with the goal of working as a <b>DevOps Engineer</b> and eventually evolving into a <b>DevSecOps professional</b>.
+   In parallel to my professional work, I build personal projects to explore widely adopted tools in the DevOps and SRE space, including <b>Kubernetes</b> for container orchestration, <b>Terraform</b> for infrastructure provisioning in cloud environments such as <b>Amazon Web Services (AWS)</b> and <b>Microsoft Azure</b>, and observability practices with tools like <b>Grafana</b> and <b>Prometheus</b>.
 </p>
 <p align="justify">
-   I value collaborative environments, organization, automation, and continuous learning, and I strongly believe that well-designed systems should be not only functional but also easy to operate, scale, and maintain.
+   I value collaborative environments, organization, and continuous learning, and I believe well-designed systems should be not only functional, but also easy to operate, scale, and maintain.
 </p>
 <div align="justify">
    <h3 align="justify"><b>Technologies with hands-on experience 🛠️</b></h3>
@@ -42,6 +42,18 @@
          <tr>
             <td>Configuration Management</td>
             <td>Ansible</td>
+         </tr>
+         <tr>
+            <td>CI/CD</td>
+            <td>GitLab CI, GitHub Actions</td>
+         </tr>
+         <tr>
+            <td>Artifact Management</td>
+            <td>Nexus Repository</td>
+         </tr>
+         <tr>
+            <td>Observability &amp; Monitoring</td>
+            <td>Grafana, Prometheus, Zabbix</td>
          </tr>
          <tr>
             <td>Scripting</td>
@@ -74,7 +86,7 @@
       <tbody>
          <tr>
             <td>Cloud Platforms</td>
-            <td>Amazon Web Services (AWS), Google Cloud Platform (GCP)</td>
+            <td>Amazon Web Services (AWS), Microsoft Azure</td>
          </tr>
          <tr>
             <td>Infrastructure as Code</td>
@@ -89,16 +101,12 @@
             <td>Helm</td>
          </tr>
          <tr>
-            <td>CI/CD</td>
-            <td>GitHub Actions, GitLab CI/CD, Argo CD, Flux CD, Jenkins</td>
+            <td>GitOps</td>
+            <td>Argo CD, Flux CD</td>
          </tr>
          <tr>
             <td>Web Server / Proxy</td>
             <td>Nginx</td>
-         </tr>
-         <tr>
-            <td>Programming Language</td>
-            <td>Go</td>
          </tr>
       </tbody>
    </table>
