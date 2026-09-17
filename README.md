@@ -1,5 +1,3 @@
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22D3EE&center=true&vCenter=true&width=500&lines=Welcome+and+Greetings!+%F0%9F%91%8B)
-
 My name is **Thomas Palma**, a **DevOps Engineer** from Brazil 🇧🇷 focused on infrastructure, reliability, and automation.
 
 In my career, I've worked with **CI/CD pipelines**, containerization with **Docker**, and configuration management with **Ansible** in **Linux production environments**. A significant part of my work involved **troubleshooting and incident resolution** in critical systems, along with **observability and monitoring** of distributed systems using **Grafana** and **Prometheus**.
